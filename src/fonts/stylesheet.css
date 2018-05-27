@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'KeepCalm-Medium';
+    src: url('KeepCalm-Medium.eot');
+    src: url('KeepCalm-Medium.eot?#iefix') format('embedded-opentype'),
+        url('KeepCalm-Medium.woff2') format('woff2'),
+        url('KeepCalm-Medium.woff') format('woff'),
+        url('KeepCalm-Medium.ttf') format('truetype'),
+        url('KeepCalm-Medium.svg#KeepCalm-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kroftsmann';
+    src: url('Kroftsmann.eot');
+    src: url('Kroftsmann.eot?#iefix') format('embedded-opentype'),
+        url('Kroftsmann.woff2') format('woff2'),
+        url('Kroftsmann.woff') format('woff'),
+        url('Kroftsmann.ttf') format('truetype'),
+        url('Kroftsmann.svg#Kroftsmann') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
